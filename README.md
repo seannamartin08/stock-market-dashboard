@@ -1,4 +1,4 @@
-#📊 Stock Market Dashboard
+# 📊 Stock Market Dashboard
 Interactive Data Analysis using Python & Streamlit
 
 This project provides a complete workflow for analyzing stock market data and visualizing insights through an interactive Streamlit dashboard.
